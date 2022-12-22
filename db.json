@@ -1,0 +1,83 @@
+{
+  "clientes": [
+    {
+      "id": 0,
+      "nome": "Maria",
+      "email": "maria123@hotmail.com",
+      "nascimento": "15/06/2000",
+      "cep": "58280-000"
+    },
+    {
+      "id": 1,
+      "nome": "José",
+      "email": "josé123@hotmail.com",
+      "nascimento": "01/01/1998",
+      "cep": "58200-000"
+    },
+    {
+      "id": 2,
+      "nome": "Felipe",
+      "email": "felipe123@hotmail.com",
+      "nascimento": "31/31/1977",
+      "cep": "58500-000"
+    },
+    {
+      "id": 3,
+      "nome": "Marcos",
+      "email": "marcos123@hotmail.com",
+      "nascimento": "31/31/1977",
+      "cep": "58500-000"
+    }
+  ],
+  "Produtos": [
+    {
+      "id": 0,
+      "nome": "Geladeira duas portas",
+      "valor": 10000
+    },
+    {
+      "id": 1,
+      "nome": "Celular Nokia",
+      "valor": 2000
+    },
+    {
+      "id": 2,
+      "nome": "Televisão 100 Polegadas",
+      "valor": 50000
+    }
+  ],
+  "Fornecedores": [
+    {
+      "id": 0,
+      "nome": "Casas Bahia",
+      "local": "São Paulo"
+    },
+    {
+      "id": 1,
+      "nome": "Lojas Americanas",
+      "local": "Mamanguape"
+    },
+    {
+      "id": 2,
+      "nome": "Amazon",
+      "local": "Rio de Janeiro"
+    }
+  ],
+  "Entregadores": [
+    {
+      "id": 0,
+      "nome": "Marquinhos",
+      "veiculo": "bike"
+    },
+    {
+      "id": 1,
+      "nome": "Josué",
+      "veiculo": "Moto"
+    },
+    {
+      "id": 2,
+      "nome": "Everaldo",
+      "veiculo": "Van"
+    }
+  ]
+}
